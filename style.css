@@ -19,7 +19,7 @@ header {
     padding: 3rem;
     border-bottom: 10px solid red;
     border-top: 10px solid red;
-    background-image: url(/assets/images/banner-g901d01c66_1920.jpg);
+    background-image: url(assets/images/banner-g901d01c66_1920.jpg);
 }
 
 .title {
@@ -51,8 +51,4 @@ header {
 
 i {
     font-size: 24px;
-}
-
-@media screen {
-    
 }
