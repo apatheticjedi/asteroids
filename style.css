@@ -1,0 +1,58 @@
+html {
+    margin: 0;
+    width: 100vw;
+}
+
+body {
+    background-color: darkblue;
+    margin: 0;
+    font-family: 'VT323', monospace;
+}
+
+header {
+    height: 6rem;
+    margin: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    text-align: center;
+    padding: 3rem;
+    border-bottom: 10px solid red;
+    border-top: 10px solid red;
+    background-image: url(/assets/images/banner-g901d01c66_1920.jpg);
+}
+
+.title {
+    font-size: 60px;
+    font-family: Arial Black, Helvetica, sans-serif;
+    color: yellow;
+    text-shadow: 5px 5px red;
+}
+
+#gameCanvas {   
+    display: flex;
+    border: 10px solid yellow;
+    border-radius: 15px;
+    align-items: center;
+    margin: 2rem auto 1rem;
+}
+
+.instructions {
+    width: 50%;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    margin: auto;
+}
+
+.instructions p {
+    margin: 0;
+}
+
+i {
+    font-size: 24px;
+}
+
+@media screen {
+    
+}
