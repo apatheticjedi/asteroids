@@ -28,6 +28,7 @@ header {
     color: yellow;
     text-shadow: 3px 8px red;
     transform: rotate(-7deg);
+    width: 98%;
 }
 
 
