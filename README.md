@@ -20,7 +20,7 @@
 
 This is a version of Atari's 1979 arcade game, Asteroids. This game was written in JavaScript and utilizes the browser's local storage to save high scores. 
 
-![Asteroids game screen shot](./assets/images/screencapture-127-0-0-1-5500-index-html-2023-03-07-15_49_24.png)
+![Asteroids game screen shot](./assets/images/screencapture-127-0-0-1-5500-2023-03-07-17_13_31.png)
 
 ### Built With
 
